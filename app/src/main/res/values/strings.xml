@@ -3,4 +3,10 @@
     <string name="btn_login01">Facebook 로그인</string>
     <string name="btn_login02">Google 로그인</string>
     <string name="btn_login_out">Logout</string>
+
+<!--    Facebook Login Keys-->
+    <string name="facebook_app_id">742140891185032</string>
+    <string name="facebook_client_token">19c19a0e853e7bd54ee981d1acf0232f</string>
+
+    <string name="msg_facebook_login">Facebook 로그인 성공</string>
 </resources>
